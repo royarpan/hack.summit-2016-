@@ -1,0 +1,10 @@
+tweets/OpenMarketingTV,rt,datajuice,6,ways,how,big,data,is,driving,your,car,-,httpstco3tm7c3kiso,1,Sat Feb 20 20:14:54 +0000 2016
+tweets/pg,big,data,from,cheap,phones,httpstcov2wec90661,1,Sat Feb 20 20:14:59 +0000 2016
+tweets/AmericaKnowsHow,can,big,data,make,a,dumb,building,smart,,energywire,httpstconav3tonhf1,httpstconrmd5z50lh,-1,Sat Feb 20 20:15:16 +0000 2016
+tweets/BostonGlobe,you,shouldnt,be,in,the,senate,if,you,are,afraid,to,vote,,said,senatorleahy,httpstcots9wwhsmfx,httpstcoyesf6geoco,-2,Sat Feb 20 20:15:33 +0000 2016
+tweets/digitindia,lets,go,to,barcelona,pre,mwc2016,,mobile,is,everything,mwc16,httpstcouo6sdf6lv7,httpstcoev0jiaxgjg,0,Sat Feb 20 20:17:34 +0000 2016
+tweets/ewjirvine,rt,cpsrl,research,in,the,news,big,data,model,improves,prediction,of,key,hospital,outcome,httpstcodbgnf92uhx,bigdata,httpstco,3,Sat Feb 20 20:17:54 +0000 2016
+tweets/CERGraham,data,democratization,in,the,age,of,bigdata,why,data,lakes,wont,work,-,data,matters,httpstcoj0ax4eb23j,1,Sat Feb 20 20:18:22 +0000 2016
+tweets/theraponiatros,patient,privacy,and,security,concerns,on,big,data,for,personalized,medicine,httpstcohbtyspevoc,1,Sat Feb 20 20:18:54 +0000 2016
+tweets/dutchlight360,rt,yvesmulkers,top,story,overcoming,5,major,supply,chain,challenges,with,big,data,analytics,,httpstcogwvnk24rzx,see,more,https,3,Sat Feb 20 22:14:57 +0000 2016
+tweets/verge,what,is,encryption,and,whos,right,about,it,httpstco6juazmtfp8,httpstcozdcqzjwgpb,0,Sat Feb 20 22:15:01 +0000 2016

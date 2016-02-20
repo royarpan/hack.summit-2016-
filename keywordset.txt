@@ -1,0 +1,19 @@
+tweets/OpenMarketingTV,[ { text: 'Big Data', relevance: '0.940532' },
+  { text: 'Ways', relevance: '0.602955' },
+  { text: 'Car', relevance: '0.595675' },
+  { text: 'https://t.co/3tm7C3KiSO', relevance: '0.593595' } ],1,Sat Feb 20 20:14:54 +0000 2016
+tweets/pg,[ { text: 'Cheap Phones', relevance: '0.90947' },
+  { text: 'Big Data', relevance: '0.725755' } ],1,Sat Feb 20 20:14:59 +0000 2016
+tweets/AmericaKnowsHow,[ { text: 'dumb building', relevance: '0.954123' },
+  { text: 'EnergyWire https://t.co/naV3tONHf1 https://t.co/Nrmd5Z50lH',
+    relevance: '0.953387' },
+  { text: 'Big Data', relevance: '0.813839' } ],-1,Sat Feb 20 20:15:16 +0000 2016
+tweets/BostonGlobe,[ { text: 'Senate', relevance: '0.953995' },
+  { text: 'https://t.co/YEsF6gEOcO', relevance: '0.826388' } ],-2,Sat Feb 20 20:15:33 +0000 2016
+tweets/digitindia,[ { text: 'https://t.co/uo6sdF6lv7 https://t.co/eV0JIaxgjg',
+    relevance: '0.946144' },
+  { text: 'Barcelona', relevance: '0.93355' },
+  { text: 'Pre', relevance: '0.891584' },
+  { text: 'Mobile', relevance: '0.69161' } ],0,Sat Feb 20 20:17:34 +0000 2016
+tweets/verge,[ { text: 'encryption', relevance: '0.922634' },
+  { text: 'https://t.co/ZdcQzjwgPB', relevance: '0.742861' } ],0,Sat Feb 20 22:15:01 +0000 2016
