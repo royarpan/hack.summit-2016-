@@ -1,0 +1,17 @@
+[ { text: 'big thing', relevance: '0.940226' }, { text: 'data mining', relevance: '0.786217' }, { text: 'different companies', relevance: '0.778813' } ],1,Sat Feb 20 18:51:02 +0000 2016
+
+[ { text: 'Mining massive patient', relevance: '0.952409' }, { text: 'costs', relevance: '0.381562' }, { text: 'data', relevance: '0.290363' }, { text: 'https://t.co/T3uji4ZAtE', relevance: '0.282987' } ],3,Sat Feb 20 18:52:06 +0000 2016
+
+[ { text: 'performance review', relevance: '0.992382' }, { text: 'https://t.co/UP3X2pQ2oA https://t.co/t7vmo5aToV', relevance: '0.959135' }, { text: 'Reports', relevance: '0.657057' }, { text: 'death', relevance: '0.652869' } ],5,Sat Feb 20 18:51:05 +0000 2016
+
+[ { text: 'Track Employee Pregnancies', relevance: '0.922959' }, { text: 'Big Data', relevance: '0.619648' }, { text: 'Employers', relevance: '0.490887' }, { text: 'Creepy.', relevance: '0.338594' }, { text: 'https://t.co/aPC8L6S3Jq', relevance: '0.333907' } ],1,Sat Feb 20 19:28:21 +0000 2016
+
+[ { text: 'bad algorithm', relevance: '0.906184' }, { text: 'big data', relevance: '0.708933' }, { text: 'power', relevance: '0.405857' } ],-2,Sat Feb 20 19:30:01 +0000 2016
+
+[ { text: 'biggest television event', relevance: '0.91153' }, { text: 'Super Bowl', relevance: '0.63756' }, { text: 'https://t.co/iBsj4mr0VD https://t.co/0KcnKpoMdJ', relevance: '0.468608' }, { text: 'Hint', relevance: '0.433108' } ],3,Sat Feb 20 19:30:06 +0000 2016
+
+[ { text: 'big deal https://t.co/5BRIIl6rSo', relevance: '0.959764' }, { text: 'self-service applications', relevance: '0.792531' }, { text: 'data entry', relevance: '0.517841' }, { text: 'joy', relevance: '0.443912' } ],4,Sat Feb 20 20:00:15 +0000 2016
+
+[ { text: 'big deal https://t.co/5BRIIl6rSo', relevance: '0.959764' }, { text: 'self-service applications', relevance: '0.792531' }, { text: 'data entry', relevance: '0.517841' }, { text: 'joy', relevance: '0.443912' } ],4,Sat Feb 20 20:00:15 +0000 2016
+
+[ { text: 'big deal https://t.co/5BRIIl6rSo', relevance: '0.959764' }, { text: 'self-service applications', relevance: '0.792531' }, { text: 'data entry', relevance: '0.517841' }, { text: 'joy', relevance: '0.443912' } ],4,Sat Feb 20 20:00:15 +0000 2016
