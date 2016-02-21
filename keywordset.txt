@@ -48,3 +48,60 @@ tweets/NiritBraun,[ { text: 'big data', relevance: '0.9646' },
   { text: 'Blackmores', relevance: '0.570249' },
   { text: 'n’t', relevance: '0.564244' },
   { text: 'https://t.co/AYZgdrdJOA', relevance: '0.540222' } ],-2,Sun Feb 21 15:31:09 +0000 2016
+tweets/WillieSilvain,[ { text: 'Big Data Analytics', relevance: '0.94141' },
+  { text: 'Great Idea https://t.co/b2GhxyqpFU',
+    relevance: '0.864735' },
+  { text: 'Training', relevance: '0.203131' } ],1,Sun Feb 21 17:06:45 +0000 2016
+tweets/HeallCatriona,[ { text: 'Big Data Analytics', relevance: '0.94141' },
+  { text: 'Great Idea https://t.co/Zz9zKVbeI6',
+    relevance: '0.864735' },
+  { text: 'Training', relevance: '0.203131' } ],1,Sun Feb 21 17:06:52 +0000 2016
+tweets/WiattAvie,[ { text: 'Big Data Analytics', relevance: '0.94141' },
+  { text: 'Great Idea https://t.co/Yi5fXHhSM0',
+    relevance: '0.864735' },
+  { text: 'Training', relevance: '0.203131' } ],1,Sun Feb 21 17:07:00 +0000 2016
+tweets/TerzaBobby,[ { text: 'Big Data Analytics', relevance: '0.94141' },
+  { text: 'Great Idea https://t.co/LOOi0aIngh',
+    relevance: '0.864735' },
+  { text: 'Training', relevance: '0.203131' } ],1,Sun Feb 21 17:07:07 +0000 2016
+tweets/MohammedTamqrah,[ { text: 'Big Data Analytics', relevance: '0.92835' },
+  { text: 'Great Idea', relevance: '0.698205' },
+  { text: 'Training', relevance: '0.210172' } ],1,Sun Feb 21 17:09:15 +0000 2016
+tweets/TheOnion,[ { text: 'Obama Tells Nation', relevance: '0.949837' },
+  { text: 'Loss https://t.co/WHVvKNkkrZ https://t.co/IoNWeZBZUr',
+    relevance: '0.678243' } ],-3,Sun Feb 21 17:15:20 +0000 2016
+tweets/pennywise3,[ { text: 'BIGGER BROTHER', relevance: '0.909371' },
+  { text: 'Track Employee Health', relevance: '0.896034' },
+  { text: 'Pregnancies- BIG', relevance: '0.793437' },
+  { text: 'Big Data', relevance: '0.526086' },
+  { text: 'Companies', relevance: '0.251187' },
+  { text: 'https://t.co/HIcKDAmdsQ', relevance: '0.245767' } ],3,Sun Feb 21 19:07:40 +0000 2016
+tweets/andersondirk3,[ { text: 'bowel movements', relevance: '0.989602' },
+  { text: 'micro manage', relevance: '0.816276' },
+  { text: 'CEO', relevance: '0.708314' },
+  { text: 'https://t.co/SpsIzw9kyi', relevance: '0.521903' } ],2,Sun Feb 21 19:07:37 +0000 2016
+tweets/Only1Lori,[ { text: 'BMT Pharmacist Meeting', relevance: '0.992075' },
+  { text: 'Myeloma information', relevance: '0.65529' },
+  { text: 'big portion', relevance: '0.599846' },
+  { text: 'new data', relevance: '0.504657' },
+  { text: 'report…', relevance: '0.23348' } ],1,Sun Feb 21 19:08:05 +0000 2016
+tweets/Slate,[ { text: 'Jeb Bush', relevance: '0.963989' },
+  { text: 'joke', relevance: '0.67129' },
+  { text: 'https://t.co/vLDlf7SH9S https://t.co/oIueaAVJxZ',
+    relevance: '0.60038' } ],2,Sun Feb 21 19:08:09 +0000 2016
+tweets/Rana_f68f,[ { text: 'Lewmar mobile data', relevance: '0.975068' },
+  { text: 'Big Deal', relevance: '0.663195' },
+  { text: 'mobile computer UPS', relevance: '0.635018' },
+  { text: 'NE… https://t.co/2xI8miIbza', relevance: '0.546135' },
+  { text: 'https://t.co/ox8pL22P4A', relevance: '0.333101' },
+  { text: 'power', relevance: '0.332294' } ],1,Sun Feb 21 19:08:17 +0000 2016
+tweets/Gizmodo,[ { text: 'Cracker Barrel', relevance: '0.900845' },
+  { text: 'Michigan State Police', relevance: '0.858882' },
+  { text: 'Uber driver', relevance: '0.740969' },
+  { text: '70s https://t.co/9D4uDDwVco', relevance: '0.64582' },
+  { text: '60s', relevance: '0.322096' } ],-3,Sun Feb 21 19:16:44 +0000 2016
+tweets/verge,[ { text: 'built-in thermal camera', relevance: '0.991062' },
+  { text: 'https://t.co/9qyftJKLNd https://t.co/7ejNd6tdul',
+    relevance: '0.728251' },
+  { text: 'world', relevance: '0.458439' },
+  { text: 'phone', relevance: '0.457263' } ],0,Sun Feb 21 19:17:26 +0000 2016
