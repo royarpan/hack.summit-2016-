@@ -105,3 +105,14 @@ tweets/verge,[ { text: 'built-in thermal camera', relevance: '0.991062' },
     relevance: '0.728251' },
   { text: 'world', relevance: '0.458439' },
   { text: 'phone', relevance: '0.457263' } ],0,Sun Feb 21 19:17:26 +0000 2016
+tweets/Persontyle,[ { text: 'Big Data Landscape', relevance: '0.954928' },
+  { text: 'thing', relevance: '0.764876' },
+  { text: 'https://t.co/Dx9kB6AzhF https://t.co/IKLgNggZ0k',
+    relevance: '0.726587' } ],1,Mon Feb 22 03:05:55 +0000 2016
+tweets/biconnections,[ { text: 'Big Data', relevance: '0.914386' },
+  { text: 'President', relevance: '0.803047' },
+  { text: 'Race', relevance: '0.603045' } ],1,Mon Feb 22 03:06:14 +0000 2016
+tweets/klodet,[ { text: 'big data', relevance: '0.900257' },
+  { text: 'Hmmmm', relevance: '0.745011' },
+  { text: 'IOT', relevance: '0.706357' },
+  { text: 'weekend', relevance: '0.573973' } ],1,Mon Feb 22 04:52:30 +0000 2016
